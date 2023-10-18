@@ -10,4 +10,4 @@ The specific steps are as follows:
 3. Then, run HAR_train+.ipynb.
 4. Finally, run raspberry_load_predict.py.
 
-The demonstration capability on the ported device is [here]{https://github.com/ruruAC/HAR_model/HAR.mp4}.
+The demonstration capability on the ported device is [here](https://github.com/ruruAC/HAR_model/HAR.mp4).
