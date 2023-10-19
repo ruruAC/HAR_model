@@ -7,8 +7,11 @@ During system runtime, the terminal collects Human Activity Recognition (HAR) da
 The specific steps are as follows:
 
 Step 1  Run HAR_model.ipynb.
+
 Step 2  Run light_HAR.ipynb.
+
 Step 3  Run HAR_train+.ipynb.
+
 Step 4  Run raspberry_load_predict.py.
 
 The demonstration capability on the ported device is [here]([https://github.com/ruruAC/HAR_model/blob/master/HAR.mp4)).
